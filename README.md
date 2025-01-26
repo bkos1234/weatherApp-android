@@ -15,5 +15,5 @@ Aplikacja dla systemu Android wyświetlająca aktualną pogodę oraz prognozę, 
 *   **Biblioteki:**
     *   Retrofit (do obsługi sieci)
     *   Gson (do parsowania JSON)
-    *   **Kotlin Coroutines (do asynchroniczności)**
+    *   Kotlin Coroutines (do asynchroniczności)
     *   i inne
